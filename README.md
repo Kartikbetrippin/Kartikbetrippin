@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kartik
-- 👀 I’m interested in data science.
-- 🌱 I’m currently learning python.
+- 👀 I’m interested in making Algorithms.
+- 🌱 I’m currently learning JAVA.
 
 <!---
 Kartikbetrippin/Kartikbetrippin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
